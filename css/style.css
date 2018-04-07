@@ -144,6 +144,7 @@ footer {
 }
 
 .footer-button {
+	text-decoration: none;
 	display: inline-block;
 	border: 1px solid #ffffff;
 	background-color: transparent;
